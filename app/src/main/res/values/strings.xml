@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CrazyMinor</string>
+    <string name="boutonJeuStart">Nouveau</string>
 </resources>
